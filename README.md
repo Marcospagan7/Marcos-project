@@ -11,6 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
+## Blackjack
 
-a brief description of your project goes here
+This project is a simplified version of the card game blackjack using bets, deck of cards, and a little bit of fun. 
