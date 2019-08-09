@@ -13,4 +13,4 @@ your own screenshot.
 
 ## Blackjack
 
-This project is a simplified version of the card game blackjack using bets, deck of cards, and a little bit of fun. 
+This project is a simplified version of the card game blackjack using bets, a deck of cards, and a stroke of luck. 
